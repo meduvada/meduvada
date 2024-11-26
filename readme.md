@@ -1,2 +1,2 @@
-[SCT Pract](https://github.com/meduvada/sct/blob/main/sct.txt)
+[DS Pract](https://github.com/meduvada/ds/blob/main/ds.txt)
 
